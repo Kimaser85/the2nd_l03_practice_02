@@ -1,0 +1,22 @@
+  271  ls
+  272  cd Module_02/
+  273  cd L02M02_cli/
+  274  cd ..
+  275  cd Projects/
+  276  ls
+  277  cd LESSON_03/
+  278  ls
+  279  cd the2nd_l03_practice_02/
+  280  ls
+  281  git status
+  282  git push
+  283  git status
+  284  git add
+  285  git add .
+  286  git status
+  287  git commit -m "Rebyild py and get 3- gif"
+  288  git push 
+  289  touch l03_02_log.txt
+  290  history > l03_02_log.txt
+
+url = git@github.com:Kimaser85/the2nd_l03_practice_02.git 
