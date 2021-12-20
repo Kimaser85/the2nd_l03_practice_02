@@ -14,3 +14,7 @@ gif_url = response.json()['data']['images']['fixed_height_small']["url"]
 resp_gif = requests.get(gif_url)
 with open("test.gif", "wb") as f:
     f.write(resp_gif.content)
+
+
+
+
